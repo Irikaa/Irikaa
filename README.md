@@ -1,7 +1,7 @@
 
-<img src="https://raw.githubusercontent.com/oestradiol/oestradiol/main/me-coding.gif"/>
+<img align="center" src="https://raw.githubusercontent.com/oestradiol/oestradiol/main/me-coding.gif">
 
-Here are some ideas to get you started:
+<h1>Hello I'm Irikaa</h1>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning **Laravel 100**
