@@ -1,5 +1,5 @@
 
-<img align="center" src="https://raw.githubusercontent.com/oestradiol/oestradiol/main/me-coding.gif">
+<img align="center" src="https://camo.githubusercontent.com/f51f965ff241224748bd9df673855b8e8c1ee6a1ebfd5b687ee087f8d7c2f67b/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f302a7942764135436e455833536434616f642e676966">
 
 <h1>Hello I'm Irikaa</h1>
 
